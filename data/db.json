@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "design a new track",
+      "details": "lorem ipsum",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "learn vuejs",
+      "details": "Build Web apps with vuejs 3 and firebase",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
